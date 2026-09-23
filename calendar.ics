@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sisu Kampkalender Scraper//
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 2 vs Rønde BTK 1
+DTSTART;TZID=Europe/Copenhagen:20260912T110000
+DTEND;TZID=Europe/Copenhagen:20260912T130000
+UID:sisu-kamp-482631@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482631\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Sisu/MBK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: B 75 3 vs Sisu/MBK 2
+DTSTART;TZID=Europe/Copenhagen:20261003T110000
+DTEND;TZID=Europe/Copenhagen:20261003T130000
+UID:sisu-kamp-482635@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482635\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Hirtshals Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 2 vs Næstved B. 2
+DTSTART;TZID=Europe/Copenhagen:20261003T140000
+DTEND;TZID=Europe/Copenhagen:20261003T160000
+UID:sisu-kamp-482639@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482639\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Hirtshals Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Team Nørreå 1 vs Sisu/MBK 2
+DTSTART;TZID=Europe/Copenhagen:20261024T120000
+DTEND;TZID=Europe/Copenhagen:20261024T140000
+UID:sisu-kamp-482646@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482646\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Randers Bordtennishal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 2 vs Hørning BTK 2
+DTSTART;TZID=Europe/Copenhagen:20261024T150000
+DTEND;TZID=Europe/Copenhagen:20261024T170000
+UID:sisu-kamp-482647@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482647\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Randers Bordtennishal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: OB Bordtennis 2 vs Sisu/MBK 2
+DTSTART;TZID=Europe/Copenhagen:20261128T120000
+DTEND;TZID=Europe/Copenhagen:20261128T140000
+UID:sisu-kamp-482650@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482650\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Rønde Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Triton-Langeskov 1 vs Sisu/MBK 2
+DTSTART;TZID=Europe/Copenhagen:20261128T150000
+DTEND;TZID=Europe/Copenhagen:20261128T170000
+UID:sisu-kamp-482652@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482652\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Rønde Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: B 75 2 vs Sisu/MBK 1
+DTSTART;TZID=Europe/Copenhagen:20260912T120000
+DTEND;TZID=Europe/Copenhagen:20260912T140000
+UID:sisu-kamp-482684@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482684\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Hirtshals Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 1 vs OB Bordtennis 1
+DTSTART;TZID=Europe/Copenhagen:20261003T110000
+DTEND;TZID=Europe/Copenhagen:20261003T130000
+UID:sisu-kamp-482689@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482689\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Sisu/MBK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 1 vs Trelleborg TTC 1
+DTSTART;TZID=Europe/Copenhagen:20261024T110000
+DTEND;TZID=Europe/Copenhagen:20261024T130000
+UID:sisu-kamp-482694@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482694\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Sisu/MBK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Hillerød GI 1 vs Sisu/MBK 1
+DTSTART;TZID=Europe/Copenhagen:20261114T120000
+DTEND;TZID=Europe/Copenhagen:20261114T140000
+UID:sisu-kamp-482701@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482701\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Idrættens Hus Roskilde\, 1. sal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Virum-Sorgenfri BTK 1 vs Sisu/MBK 1
+DTSTART;TZID=Europe/Copenhagen:20261114T150000
+DTEND;TZID=Europe/Copenhagen:20261114T170000
+UID:sisu-kamp-482699@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482699\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Idrættens Hus Roskilde\, 1. sal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 1 vs Roskilde Bordtennis\, BTK 61 2
+DTSTART;TZID=Europe/Copenhagen:20261128T120000
+DTEND;TZID=Europe/Copenhagen:20261128T140000
+UID:sisu-kamp-482710@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482710\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Hirtshals Idrætscenter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bordtennis: Sisu/MBK 1 vs CPH - Hvidovre 2
+DTSTART;TZID=Europe/Copenhagen:20261128T150000
+DTEND;TZID=Europe/Copenhagen:20261128T170000
+UID:sisu-kamp-482709@bordtennisportalen.dk
+DESCRIPTION:Kampnummer: 482709\nAutomatisk hentet fra Bordtennisportalen.
+LOCATION:Hirtshals Idrætscenter
+END:VEVENT
+END:VCALENDAR
